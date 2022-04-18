@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.920cbe05.css","mappings":"AAAA,EACI,mCACA,SACA","sources":["app.scss"],"sourcesContent":["* {\r\n    font-family: 'Nunito Sans', sans-serif;\r\n    margin: 0;\r\n    padding: 0;\r\n}"],"names":[],"sourceRoot":""}
